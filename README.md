@@ -1,5 +1,5 @@
 # AI Agents Starter Pack
-This repo serves as a starter pack to help beginners kickstart their journey into creating autonomous agents using the **Phi Framework**.
+This repo serves as a starter pack to help beginners kickstart their journey into creating autonomous agents using the [**Phi Framework**](https://www.phidata.com/).
 
 ## Getting Started
 
@@ -35,9 +35,9 @@ pip install -r requirements.txt
 ### 4. Obtain Groq Cloud API Key
 To run the autonomous agent, you'll need an API key from Groq Cloud. Follow these steps to obtain one:
 
-1. Visit the (Groq Console)[https://console.groq.com/] website.
+1. Visit the [Groq Console](https://console.groq.com/) website.
 2. Sign up or log in to your account.
-3. Navigate to the (API Keys)[https://console.groq.com/keys] section in your account settings.
+3. Navigate to the [API Keys](https://console.groq.com/keys) section in your account settings.
 4. Click on "Create API Key".
 5. Copy the generated API key.
 
@@ -60,7 +60,7 @@ The AI Agent will perform the research based on your query, generate a detailed 
 ## Contact & Support
 If you have any questions or need support, feel free to reach out to me:
 
-**Email:** (hello@raihankhan.dev)[mailto:hello@raihankhan.dev]
-**Twitter:** (@raihankhan_rk)[https://x.com/raihankhan_rk]
+**Email:** [hello@raihankhan.dev](mailto:hello@raihankhan.dev)
+**Twitter:** [@raihankhan_rk](https://x.com/raihankhan_rk)
 
 Happy coding, and welcome to the world of AI!
